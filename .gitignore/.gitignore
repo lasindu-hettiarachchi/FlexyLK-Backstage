@@ -1,0 +1,14 @@
+# ASP.NET Core
+**/bin/
+**/obj/
+**/.vs/
+
+# Flutter
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+
+# Secrets
+.env
+**/appsettings.Development.json
