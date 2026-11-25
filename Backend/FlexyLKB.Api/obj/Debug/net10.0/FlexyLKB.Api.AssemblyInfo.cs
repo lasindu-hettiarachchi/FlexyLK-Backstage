@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlexyLKB.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d529483462af36ffdf876413995dbda59874905")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de396df93aac37c2c4e3c2ce532034230fec56c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlexyLKB.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlexyLKB.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
