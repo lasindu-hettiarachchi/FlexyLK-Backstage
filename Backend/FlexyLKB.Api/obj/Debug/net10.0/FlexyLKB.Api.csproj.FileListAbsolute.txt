@@ -119,3 +119,4 @@ C:\CapstoneProjectBackstage\FlexyLK-Backstage\Backend\FlexyLKB.Api\obj\Debug\net
 C:\CapstoneProjectBackstage\FlexyLK-Backstage\Backend\FlexyLKB.Api\obj\Debug\net10.0\FlexyLKB.Api.pdb
 C:\CapstoneProjectBackstage\FlexyLK-Backstage\Backend\FlexyLKB.Api\obj\Debug\net10.0\FlexyLKB.Api.genruntimeconfig.cache
 C:\CapstoneProjectBackstage\FlexyLK-Backstage\Backend\FlexyLKB.Api\obj\Debug\net10.0\ref\FlexyLKB.Api.dll
+C:\CapstoneProjectBackstage\FlexyLK-Backstage\Backend\FlexyLKB.Api\obj\Debug\net10.0\FlexyLKB.Api.sourcelink.json
